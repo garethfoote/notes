@@ -1,5 +1,5 @@
-## Module: UX/UI STUDIO 
-### Project: Digital Currency
+## Module: UX/UI STUDIO - Digital Currency
+
 
 1. David/Luke - Algae Coin 
 
@@ -66,6 +66,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njg5NzQ3NiwtNjg5ODgyNjQyLC0yMD
+eyJoaXN0b3J5IjpbLTk0NTcyNTg1MSwtNjg5ODgyNjQyLC0yMD
 g4NzQ2NjEyXX0=
 -->
