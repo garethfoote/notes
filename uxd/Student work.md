@@ -60,10 +60,12 @@ Ben, Ines and Will created a prototype augmented reality experience that visuali
 
 Mai created a mapping application that could incorporate information about different air pollutants and offer choices about different routes and transport methods.
 
-Interactive prototype:
-https://xd.adobe.com/view/a89ce058-6fda-4c8a-5a73-c9f299fdbff8-dead/?fullscreen
+[Interactive prototype](https://xd.adobe.com/view/a89ce058-6fda-4c8a-5a73-c9f299fdbff8-dead/?fullscreen)
 
-5. Kasia created some posters that visualised air pollutions in different parts of London:
+### Air Pollution in London
+
+Kasia created posters that visualised air pollution in different boroughs in London:
+
 https://www.behance.net/gallery/79259045/Data-for-change-posters-design
 
 ### Project: Data4Change (Air Pollution)
@@ -77,7 +79,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDU2MzQwNyw0MTUyODc0NDksMTgzNj
-E3NzMyMywtOTQ1NzI1ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTM4OTA2MTE3LDQxNTI4NzQ0OSwxODM2MT
+c3MzIzLC05NDU3MjU4NTEsLTY4OTg4MjY0MiwtMjA4ODc0NjYx
+Ml19
 -->
