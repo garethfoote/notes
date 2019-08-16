@@ -39,13 +39,15 @@ Luke created an application that visualised geolocated air pollution data as an 
 | [Design](https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru) | [Write up](https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru) |
 |--|--|
 
+### Plant vs Pollution
 
-2. Kristina designed a platform for urban gardeners to make decisions about what plants to add to their gardens/balconies based on their ability to absorb pollutants.
+Kristina designed a platform for urban gardeners to make decisions about what plants to add to their gardens/balconies based on their ability to absorb pollutants.
 
-Interactive prototype:
-https://xd.adobe.com/view/733fe26a-6db0-4494-5072-a8293da96920-050e/screen/4878f661-7da3-45e5-9881-27d5c2ef3087/Home
+[Interactive prototype](
+https://xd.adobe.com/view/733fe26a-6db0-4494-5072-a8293da96920-050e/screen/4878f661-7da3-45e5-9881-27d5c2ef3087/Home)
 
-3. Ben created a prototype augmented reality experience that visualised air pollution data.
+
+Ben created a prototype augmented reality experience that visualised air pollution data.
 
 Video demo:
 https://benleechstudiohome.files.wordpress.com/2019/05/ezgif.com-video-to-gif.gif 
@@ -69,6 +71,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODI3NjMwMiwxODM2MTc3MzIzLC05ND
-U3MjU4NTEsLTY4OTg4MjY0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDE1Mjg3NDQ5LDE4MzYxNzczMjMsLTk0NT
+cyNTg1MSwtNjg5ODgyNjQyLC0yMDg4NzQ2NjEyXX0=
 -->
