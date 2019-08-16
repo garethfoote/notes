@@ -30,9 +30,7 @@ Encouraging people find new artists by creating a value system around music disc
 |--|--|--|
 
 
-## Module: INTERACTIVE DATA VISUALISATION STUDIO
-### Project: Data4Change (Air Pollution)
-
+## Module: Interactive Data Visualisation Studio /  Project: Data4Change (Air Pollution)
 
 1. Luke created an application that visualised geolocated air pollution data as an animated/animistic ‘tamagotchi’-like creature. 
 
@@ -72,6 +70,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDg4MDY0MywtOTQ1NzI1ODUxLC02OD
+eyJoaXN0b3J5IjpbMTgzNjE3NzMyMywtOTQ1NzI1ODUxLC02OD
 k4ODI2NDIsLTIwODg3NDY2MTJdfQ==
 -->
