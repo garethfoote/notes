@@ -54,7 +54,9 @@ Ben, Ines and Will created a prototype augmented reality experience that visuali
 
 [Documentation]([https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/](https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/)
 
-4. Mai created a mapping application that could incorporate information about different air pollutants and offer choices about different routes and transport methods.
+### AQI Nav
+
+Mai created a mapping application that could incorporate information about different air pollutants and offer choices about different routes and transport methods.
 
 Interactive prototype:
 https://xd.adobe.com/view/a89ce058-6fda-4c8a-5a73-c9f299fdbff8-dead/?fullscreen
@@ -73,7 +75,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Nzc4NjY3OCw0MTUyODc0NDksMTgzNj
+eyJoaXN0b3J5IjpbMTE1NjE3NTA5Nyw0MTUyODc0NDksMTgzNj
 E3NzMyMywtOTQ1NzI1ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2
 MTJdfQ==
 -->
