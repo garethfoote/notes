@@ -4,7 +4,7 @@
 1. David/Luke - Algae Coin 
 
 
-	![](https://uploads-ssl.webflow.com/5b4cc508d95543c8be1d1104/5c43cdace006567946924b1c_s_70CBE87F0171D2AB086C061600147410A79F02B1F8F96DB7B5B01FD794023B88_1547649008323_Shop%2Balgae.jpeg)
+![](https://uploads-ssl.webflow.com/5b4cc508d95543c8be1d1104/5c43cdace006567946924b1c_s_70CBE87F0171D2AB086C061600147410A79F02B1F8F96DB7B5B01FD794023B88_1547649008323_Shop%2Balgae.jpeg)
 
 
 	Developed an idea for a company (Algae Coin) that sells Algae cultivating tanks. Targeting hobbyists, science enthusiasts and environmentally minded. Algae is then harvested and given back to the business to create products (fuel, food, plastic products) that are then available to harvesters depending on the success of their crop.   
@@ -67,6 +67,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMTk2NDAyLC02ODk4ODI2NDIsLTIwOD
+eyJoaXN0b3J5IjpbNDM1MjI4MzYyLC02ODk4ODI2NDIsLTIwOD
 g3NDY2MTJdfQ==
 -->
