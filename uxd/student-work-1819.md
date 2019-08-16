@@ -40,15 +40,16 @@ Encouraging people find new artists by creating a value system around music disc
 
 Luke created an application that visualised geolocated air pollution data as an animated/animistic ‘tamagotchi’-like creature. 
 
-| [Design](https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru) | [Write up](https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru) |
+| [Design](https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru) | [Documentation](https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru) |
 |--|--|
 
 ### Plant vs Pollution
 
 Kristina designed a platform for urban gardeners to make decisions about what plants to add to their gardens/balconies based on their ability to absorb pollutants.
 
-[Interactive prototype](
-https://xd.adobe.com/view/733fe26a-6db0-4494-5072-a8293da96920-050e/screen/4878f661-7da3-45e5-9881-27d5c2ef3087/Home)
+| [Interactive prototype](
+https://xd.adobe.com/view/733fe26a-6db0-4494-5072-a8293da96920-050e/screen/4878f661-7da3-45e5-9881-27d5c2ef3087/Home) |
+|--|
 
 ### AR Air Pollution 
 
@@ -86,5 +87,5 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODQzMzg1XX0=
+eyJoaXN0b3J5IjpbMjAyMzY0NDE0OSwtNzE4NDMzODVdfQ==
 -->
