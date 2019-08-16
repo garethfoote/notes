@@ -56,6 +56,7 @@ Ben, Ines and Will created a prototype augmented reality experience that visuali
 
 ### AQI Nav
 
+![](https://workbymaielamin.000webhostapp.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-28-at-00.51.04-1110x530.png)
 
 Mai created a mapping application that could incorporate information about different air pollutants and offer choices about different routes and transport methods.
 
@@ -76,7 +77,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ2NzEzODUsNDE1Mjg3NDQ5LDE4Mz
-YxNzczMjMsLTk0NTcyNTg1MSwtNjg5ODgyNjQyLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMTA0NDU2MzQwNyw0MTUyODc0NDksMTgzNj
+E3NzMyMywtOTQ1NzI1ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2
+MTJdfQ==
 -->
