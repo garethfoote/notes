@@ -48,7 +48,8 @@ https://xd.adobe.com/view/733fe26a-6db0-4494-5072-a8293da96920-050e/screen/4878f
 
 ### AR Air Pollution 
 
-![AR Air Pollution screenshots]([https://benleechstudiohome.files.wordpress.com/2019/06/iphone-back-mockupkkk.jpg](https://benleechstudiohome.files.wordpress.com/2019/06/iphone-back-mockupkkk.jpg)
+https://benleechstudiohome.files.wordpress.com/2019/06/iphone-back-mockupkkk.jpg
+
 
 Ben, Ines and Will created a prototype augmented reality experience that visualised air pollution data and gamified the experience. 
 
@@ -82,7 +83,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzI2MzMzNiw0MTUyODc0NDksMTgzNj
-E3NzMyMywtOTQ1NzI1ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbMTQwNDQ0MDcyNywxMzUzMjYzMzM2LDQxNT
+I4NzQ0OSwxODM2MTc3MzIzLC05NDU3MjU4NTEsLTY4OTg4MjY0
+MiwtMjA4ODc0NjYxMl19
 -->
