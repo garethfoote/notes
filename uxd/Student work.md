@@ -50,9 +50,9 @@ https://xd.adobe.com/view/733fe26a-6db0-4494-5072-a8293da96920-050e/screen/4878f
 
 ![](https://benleechstudiohome.files.wordpress.com/2019/06/iphone-back-mockupkkk.jpg)
 
-Ben, Ines and Will created a prototype augmented reality experience that visualised air pollution data and gamified the experience. 
+Ben, Ines and Will created a prototype augmented reality experience that visualised air pollution data and gameified the experience. 
 
-[Documentation]([https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/](https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/)
+[Documentation](https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/)
 
 ### AQI Nav
 
@@ -82,7 +82,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgyMjUyNTksMTM1MzI2MzMzNiw0MT
-UyODc0NDksMTgzNjE3NzMyMywtOTQ1NzI1ODUxLC02ODk4ODI2
-NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3Njk4MDA1NzksLTE3MzgyMjUyNTksMT
+M1MzI2MzMzNiw0MTUyODc0NDksMTgzNjE3NzMyMywtOTQ1NzI1
+ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2MTJdfQ==
 -->
