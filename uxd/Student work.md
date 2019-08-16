@@ -50,10 +50,9 @@ https://xd.adobe.com/view/733fe26a-6db0-4494-5072-a8293da96920-050e/screen/4878f
 
 ![AR Air Pollution screenshots]([https://benleechstudiohome.files.wordpress.com/2019/06/iphone-back-mockupkkk.jpg](https://benleechstudiohome.files.wordpress.com/2019/06/iphone-back-mockupkkk.jpg)
 
-Ben created a prototype augmented reality experience that visualised air pollution data.
+Ben, Ines and Will created a prototype augmented reality experience that visualised air pollution data and gamified the experience. 
 
-Video demo:
-https://benleechstudiohome.files.wordpress.com/2019/05/ezgif.com-video-to-gif.gif 
+[Documentation]([https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/](https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/)
 
 4. Mai created a mapping application that could incorporate information about different air pollutants and offer choices about different routes and transport methods.
 
@@ -74,7 +73,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzODI1MDM5LDQxNTI4NzQ0OSwxODM2MT
-c3MzIzLC05NDU3MjU4NTEsLTY4OTg4MjY0MiwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbMTY1Nzc4NjY3OCw0MTUyODc0NDksMTgzNj
+E3NzMyMywtOTQ1NzI1ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2
+MTJdfQ==
 -->
