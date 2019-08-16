@@ -49,8 +49,7 @@ https://xd.adobe.com/view/a89ce058-6fda-4c8a-5a73-c9f299fdbff8-dead/?fullscreen
 5. Kasia created some posters that visualised air pollutions in different parts of London:
 https://www.behance.net/gallery/79259045/Data-for-change-posters-design
 
-Module: INTERACTIVE DATA VISUALISATION STUDIO
-Project: Concrete Data (Borders)
+### Project: Data4Change (Air Pollution)
 
 David’s journalistic approach to representing Chinese investment on the African continent using data visualisations.
 https://industrialiseafrica.netlify.com/ 
@@ -61,5 +60,5 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTUwOTczNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTY4OTg4MjY0MiwtMjA4ODc0NjYxMl19
 -->
