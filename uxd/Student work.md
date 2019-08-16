@@ -14,7 +14,6 @@ Developed an idea for a company (Algae Coin) that sells Algae cultivating tanks.
 
 ### Vishal/Tammy - Transport for the Environment 
 
-
 Creating an interface to encourage environmentally informed transport choices. Creating a currency out of the behaviour to create a competition with yourself.   
 | [Project Website](https://yourtfe.webflow.io/) | [Prototype](https://projects.invisionapp.com/prototype/TFE-Interface-cjqu3e3ss002nke018payuipj/play/9e308733) |
 |--|--|
@@ -71,6 +70,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjE0MzYwNSwtOTQ1NzI1ODUxLC02OD
+eyJoaXN0b3J5IjpbLTEzOTY2NTcyMSwtOTQ1NzI1ODUxLC02OD
 k4ODI2NDIsLTIwODg3NDY2MTJdfQ==
 -->
