@@ -1,4 +1,4 @@
-## Module: UX/UI STUDIO - Digital Currency
+## Module: UX/UI STUDIO / Project: Digital Currency
 
 
 ### David/Luke - Algae Coin 
@@ -12,10 +12,15 @@ Developed an idea for a company (Algae Coin) that sells Algae cultivating tanks.
 |--|--|
 
 
-2. Vishal/Tammy - Transport for the Environment - Creating an interface to encourage environmentally sound transport choices. Creating a currency out of transport behaviour.   
+### Vishal/Tammy - Transport for the Environment 
+
+Creating an interface to encourage environmentally informed transport choices. Creating a currency out of the behaviour to create a competition with yourself.   
+|  |  |
+|--|--|
+
 
 https://projects.invisionapp.com/prototype/TFE-Interface-cjqu3e3ss002nke018payuipj/play/9e308733 (Prototype)
-https://yourtfe.webflow.io/ (Project Website)
+Project Website](https://yourtfe.webflow.io/ (Project Website)
 
 3. Kasia - Pointify - Encouraging people find new artists by creating a value system around music discovery.
 
@@ -66,6 +71,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxODcyNjAzLC05NDU3MjU4NTEsLTY4OT
+eyJoaXN0b3J5IjpbMjQ3NzYwODQyLC05NDU3MjU4NTEsLTY4OT
 g4MjY0MiwtMjA4ODc0NjYxMl19
 -->
