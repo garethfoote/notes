@@ -32,13 +32,13 @@ Encouraging people find new artists by creating a value system around music disc
 
 ## Module: Interactive Data Visualisation Studio /  Project: Data4Change (Air Pollution)
 
-1. Luke created an application that visualised geolocated air pollution data as an animated/animistic ‘tamagotchi’-like creature. 
+### Air Pollution Tamagotchi
 
-Design:
-https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru
+Luke created an application that visualised geolocated air pollution data as an animated/animistic ‘tamagotchi’-like creature. 
 
-Write up:
-https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru
+| [Design](
+https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru) | 
+[Write up](https://lukewhetton.wixsite.com/mysite/copy-of-page-template-2?lightbox=dataItem-jv6jknru)
 
 
 2. Kristina designed a platform for urban gardeners to make decisions about what plants to add to their gardens/balconies based on their ability to absorb pollutants.
@@ -70,6 +70,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjE3NzMyMywtOTQ1NzI1ODUxLC02OD
-k4ODI2NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjE0NjQwMTI0MiwxODM2MTc3MzIzLC05ND
+U3MjU4NTEsLTY4OTg4MjY0MiwtMjA4ODc0NjYxMl19
 -->
