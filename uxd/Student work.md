@@ -15,16 +15,19 @@ Developed an idea for a company (Algae Coin) that sells Algae cultivating tanks.
 ### Vishal/Tammy - Transport for the Environment 
 
 Creating an interface to encourage environmentally informed transport choices. Creating a currency out of the behaviour to create a competition with yourself.   
+
 | [Project Website](https://yourtfe.webflow.io/) | [Prototype](https://projects.invisionapp.com/prototype/TFE-Interface-cjqu3e3ss002nke018payuipj/play/9e308733) |
 |--|--|
 
 
 
 
-3. Kasia - Pointify - Encouraging people find new artists by creating a value system around music discovery.
+### Ana/Kasia - Pointify 
 
-https://xd.adobe.com/view/49392187-3fb1-43ce-5897-29931594b705-3f08/?fullscreen&hints=off (Prototype)
-https://www.behance.net/gallery/75141451/pointi-fy-digital-music-platform (Project presentation)
+Encouraging people find new artists by creating a value system around music discovery.
+
+| [Prototype](https://xd.adobe.com/view/49392187-3fb1-43ce-5897-29931594b705-3f08/?fullscreen&hints=off) |
+[Documentation](https://www.behance.net/gallery/75141451/pointi-fy-digital-music-platform (Project presentation)
 https://www.dropbox.com/s/75a51ed6gbudy9c/DigitalCurrency03.pdf?dl=0 (documentation)
 
 
@@ -70,6 +73,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY2NTcyMSwtOTQ1NzI1ODUxLC02OD
+eyJoaXN0b3J5IjpbMTY3ODk5Nzg2NywtOTQ1NzI1ODUxLC02OD
 k4ODI2NDIsLTIwODg3NDY2MTJdfQ==
 -->
