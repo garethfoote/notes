@@ -57,7 +57,8 @@ Kristina designed a platform for urban gardeners to make decisions about what pl
 
 Ben, Ines and Will created a prototype augmented reality experience that visualised air pollution data and gameified the experience. 
 
-[Documentation](https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/)
+|[Documentation](https://benleechstudio.home.blog/2019/06/11/interactive-data-visualisation-studio-data-for-change/)|
+|--|
 
 ### AQI Nav
 
@@ -65,7 +66,8 @@ Ben, Ines and Will created a prototype augmented reality experience that visuali
 
 Mai created a mapping application that could incorporate information about different air pollutants and offer choices about different routes and transport methods.
 
-[Interactive prototype](https://xd.adobe.com/view/a89ce058-6fda-4c8a-5a73-c9f299fdbff8-dead/?fullscreen)
+|[Interactive prototype](https://xd.adobe.com/view/a89ce058-6fda-4c8a-5a73-c9f299fdbff8-dead/?fullscreen)|
+|--|
 
 ### Air Pollution in London
 
@@ -73,7 +75,8 @@ Kasia created posters that visualised air pollution in different boroughs in Lon
 
 ![Air Pollution in London](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/efad8879259045.5cbe100fc8164.jpg)
 
-[More designs](https://www.behance.net/gallery/79259045/Data-for-change-posters-design)
+|[More designs](https://www.behance.net/gallery/79259045/Data-for-change-posters-design)|
+|--|
 
 
 ### Project: Data4Change (Air Pollution)
@@ -87,5 +90,5 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDk3MjA2NSwtNzE4NDMzODVdfQ==
+eyJoaXN0b3J5IjpbLTI2NzE1MDQwNywtNzE4NDMzODVdfQ==
 -->
