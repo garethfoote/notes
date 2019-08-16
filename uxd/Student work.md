@@ -3,12 +3,15 @@
 
 1. David/Luke - Algae Coin 
 
-	Developed an idea for a company (Algae Coin) that sells Algae cultivating tanks. Targeting hobbyists, science enthusiasts and environmentally minded. Algae is then harvested and given back to the business to create products (fuel, food, plastic products) that are then available to harvesters depending on the success of their crop.   
 
 	![](https://uploads-ssl.webflow.com/5b4cc508d95543c8be1d1104/5c43cdace006567946924b1c_s_70CBE87F0171D2AB086C061600147410A79F02B1F8F96DB7B5B01FD794023B88_1547649008323_Shop%2Balgae.jpeg)
 
-https://www.figma.com/proto/Cn6a2mfJk8jjjfH0Wkm79evM/algae?node-id=0%3A476&viewport=-730%2C-1149%2C0.147452&scaling=scale-down-width&redirected=1)
-http://davidvalente.webflow.io/categories/digital-currency (Documentation)
+
+	Developed an idea for a company (Algae Coin) that sells Algae cultivating tanks. Targeting hobbyists, science enthusiasts and environmentally minded. Algae is then harvested and given back to the business to create products (fuel, food, plastic products) that are then available to harvesters depending on the success of their crop.   
+	
+| [Prototype](https://www.figma.com/proto/Cn6a2mfJk8jjjfH0Wkm79evM/algae?node-id=0%3A476&viewport=-730%2C-1149%2C0.147452&scaling=scale-down-width&redirected=1) | [Documentation](http://davidvalente.webflow.io/categories/digital-currency) |
+|--|--|
+
 
 2. Vishal/Tammy - Transport for the Environment - Creating an interface to encourage environmentally sound transport choices. Creating a currency out of transport behaviour.   
 
@@ -64,6 +67,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQzMTE2NDgsLTY4OTg4MjY0MiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMzkyMTk2NDAyLC02ODk4ODI2NDIsLTIwOD
+g3NDY2MTJdfQ==
 -->
