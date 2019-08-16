@@ -29,7 +29,6 @@ Encouraging people find new artists by creating a value system around music disc
 | [Prototype](https://xd.adobe.com/view/49392187-3fb1-43ce-5897-29931594b705-3f08/?fullscreen&hints=off) | [Project presentation](https://www.behance.net/gallery/75141451/pointi-fy-digital-music-platform) | [Documentation](https://www.dropbox.com/s/75a51ed6gbudy9c/DigitalCurrency03.pdf?dl=0)|
 |--|--|--|
 
-------
 
 ## Module: Interactive Data Visualisation Studio /  Project: Data4Change (Air Pollution)
 
@@ -71,6 +70,6 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNzk4NjksLTk0NTcyNTg1MSwtNjg5OD
-gyNjQyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTgzNjE3NzMyMywtOTQ1NzI1ODUxLC02OD
+k4ODI2NDIsLTIwODg3NDY2MTJdfQ==
 -->
