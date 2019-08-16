@@ -66,7 +66,10 @@ Mai created a mapping application that could incorporate information about diffe
 
 Kasia created posters that visualised air pollution in different boroughs in London:
 
-https://www.behance.net/gallery/79259045/Data-for-change-posters-design
+![Air Pollution in London](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/efad8879259045.5cbe100fc8164.jpg)
+
+[More designs](https://www.behance.net/gallery/79259045/Data-for-change-posters-design)
+
 
 ### Project: Data4Change (Air Pollution)
 
@@ -79,7 +82,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTA2MTE3LDQxNTI4NzQ0OSwxODM2MT
-c3MzIzLC05NDU3MjU4NTEsLTY4OTg4MjY0MiwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbMTM1MzI2MzMzNiw0MTUyODc0NDksMTgzNj
+E3NzMyMywtOTQ1NzI1ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2
+MTJdfQ==
 -->
