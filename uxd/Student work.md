@@ -24,6 +24,8 @@ Creating an interface to encourage environmentally informed transport choices. C
 
 ### Ana/Kasia - Pointify 
 
+![](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/478d4075141451.5c44c53b56b3f.png)
+
 Encouraging people find new artists by creating a value system around music discovery.
 
 | [Prototype](https://xd.adobe.com/view/49392187-3fb1-43ce-5897-29931594b705-3f08/?fullscreen&hints=off) | [Project presentation](https://www.behance.net/gallery/75141451/pointi-fy-digital-music-platform) | [Documentation](https://www.dropbox.com/s/75a51ed6gbudy9c/DigitalCurrency03.pdf?dl=0)|
@@ -33,6 +35,8 @@ Encouraging people find new artists by creating a value system around music disc
 ## Module: Interactive Data Visualisation Studio /  Project: Data4Change (Air Pollution)
 
 ### Air Pollution Tamagotchi
+
+![](https://static.wixstatic.com/media/eef3be_654238ec6e174ff483a57baa629e2b8f~mv2_d_4232_3482_s_4_2.png/v1/fill/w_1599,h_1316,al_c,q_90,usm_0.66_1.00_0.01/iPhoneX%20-%20Minimal%20Freebie%20.webp)
 
 Luke created an application that visualised geolocated air pollution data as an animated/animistic ‘tamagotchi’-like creature. 
 
@@ -82,7 +86,7 @@ https://euuk.netlify.com/
 Kasia created a visualisation of hate speech instances in her Poland:
 https://hatespeechinpoland.netlify.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4MDA1NzksLTE3MzgyMjUyNTksMT
-M1MzI2MzMzNiw0MTUyODc0NDksMTgzNjE3NzMyMywtOTQ1NzI1
-ODUxLC02ODk4ODI2NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTcxODQzMzg1LC0xNzM4MjI1MjU5LDEzNT
+MyNjMzMzYsNDE1Mjg3NDQ5LDE4MzYxNzczMjMsLTk0NTcyNTg1
+MSwtNjg5ODgyNjQyLC0yMDg4NzQ2NjEyXX0=
 -->
