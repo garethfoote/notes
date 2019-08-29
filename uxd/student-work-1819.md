@@ -79,7 +79,7 @@ Kasia created posters that visualised air pollution in different boroughs in Lon
 |--|
 
 
-### Project: Data4Change (Air Pollution)
+### Project: Borders as Data and Data as Borders
 
 David’s journalistic approach to representing Chinese investment on the African continent using data visualisations.
 https://industrialiseafrica.netlify.com/ 
